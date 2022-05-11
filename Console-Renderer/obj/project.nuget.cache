@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLZP+3rpXv8KVAP+C/ZPj3j3sq7qzeFYiTtyxVqFqpUFDzrVXxAE+tSCu6twYLkQ041Ql5JSBH5/lbtz6Mr+2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yair medina\\Desktop\\Projects\\ConsoleRendererPublicVersion - Copy\\Console-Renderer\\Console-Renderer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yair medina\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\yair medina\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
